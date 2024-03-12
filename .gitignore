@@ -1,0 +1,10 @@
+*.png
+*.txt
+*.bin
+DCalgo_results
+RLalgo_results
+*.o
+*.out
+*.exe
+DCalgo
+RLalgo
